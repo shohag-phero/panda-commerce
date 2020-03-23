@@ -17,5 +17,41 @@
     padding: 9px 25px;
     border: none;
     border-radius: 8px;
-    
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 120px;
+}
+.cat1{
+    background-image: linear-gradient(45deg, orange, yellow);
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+.cat2{
+    background-image: linear-gradient(45deg, rgb(241, 37, 139), hotpink);
+    padding: 10px 30px;
+    border-radius: 8px;
+}
+.cat3{
+    background-image: linear-gradient(45deg, cyan, blue);
+    padding: 10px 30px;
+    border-radius: 8px;
+}    
+.card{
+    border: none;
+    box-shadow: 5px 5px 10px lightgray; 
+    border-radius: 10px;   
+}
+.card-footer{
+    background-color:white;
+    border-top: none;
+    border-radius: 10px;
+}
+#subscribe{
+    height: 300px;
+}
+footer{
+    text-align: center;
 }
